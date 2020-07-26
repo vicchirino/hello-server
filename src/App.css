@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background-color: #e6e2d3;
+  height: 100%;
+}
+
+.Header {
+  font-size: larger;
+}
+
+.Server {
+  padding-top: 50px;
+}
+
+.Button {
+  text-align: center;
+  color: black;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 10px 5px;
+}
+
+.Status {
+  height: 100%;
+}
